@@ -1,4 +1,4 @@
-# [yash portfolio]
+# yash portfolio
 
 Welcome to my portfolio!
 
